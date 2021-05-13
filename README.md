@@ -1,6 +1,8 @@
 
 # Hello boys aqui les presento, mi primer proyecto con react , se trata de una Agenda Tipo Twitch ESPERO OS GUSTE (=
 
+![Captura de pantalla (342)](https://user-images.githubusercontent.com/82047029/118189039-e2a1f380-b406-11eb-87af-17205a17ccc6.png)
+
 
 # Getting Started with Create React App
 
